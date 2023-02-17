@@ -1,0 +1,200 @@
+.full-page{
+    height: auto;
+    width: auto;
+}
+.text{
+    position: absolute;
+    top: 0;
+    font-size: 16px;
+}
+.sign-in{
+    background-color: #e50914;
+    color: white;
+    height: 40px;
+    width: 75px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    margin-left: 25px;
+}
+.language{
+    width: 75px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: 1286px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+}
+h1{
+    color: white;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    text-align: -webkit-center;
+    font-size: 4rem;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 110px;
+    
+
+
+}
+p{
+    color: white;
+    font-size: 1.625rem;
+    margin: 1rem auto;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    text-align: center;
+}
+span{
+    color: white;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-size: 1.2rem;
+    margin-left: 30%;
+}
+.inputs{
+    width: 32%;
+    height: 70px!important;
+    margin-left: 27%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+.get-started{
+    background-color: #e50914;
+    color: white;
+    height: 75px!important;
+    width: 15%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    letter-spacing: 0!important;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: .1px;
+    line-height: 1em;
+
+}
+.section2{
+    background-color: black;
+    height: 50%;
+    width: 100%;
+}
+
+/* 
+.heading2{
+ color: white;
+ font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+ font-weight: 400;
+  */
+
+/* }
+ .text2{
+    color: white;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-size: 1.625rem;
+    font-weight: 400;
+
+}  */
+.container1 {
+    width: 100%;
+    min-height: 460px;
+    background-color: black;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+    margin-top: 0px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+   border-bottom: 8px solid #222;
+  }
+  .container1 img {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    object-fit: contain;
+    object-position: center;
+    align-self: center;
+    max-width: 100%;
+    height: 350px;
+  }
+  .container1 h1{
+    font-size: 2.625rem;
+  }
+  .container2{
+    margin-top: 0;
+    background-color: black;
+
+  }
+  .container2 h1{
+    font-size: 2.625rem;
+  }
+  .quest{
+    color:white;
+  }
+  .quest {
+    width: 51%;
+    min-height: 75px;
+    background-color: #303030;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0;
+    margin-left: 25%;
+  }
+  
+  .quest .text-box {
+    
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    display: flex;
+    text-align: left;
+    
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-self: center;
+    font-size: 25px;
+    margin: 0 30px;
+    word-spacing: 5px;
+    text-align: left;
+  }
+  .quest i {
+    margin: 0 30px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+  }
+  .input2{
+    margin-top: 18px;
+    width: 32%;
+    height: 70px!important;
+    margin-left: 27%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+  }
+  .footer{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 15%;
+
+    
+  }
+  a{
+    color:#737373;;
+    text-decoration: none;
+    line-height: 35px;
+    font-size: 13px;
+  
+  }
+  .language2{
+    margin-left: 250px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color:#737373;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+  }
+  .end h2{
+    color: #737373;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-size: 1em;
+    margin-left: 250px;
+  }
